@@ -1,5 +1,5 @@
 # Tic-Tac-Toe_AI
-Human [X] vs. AI [O]
+Human vs. Computer(AI) in a classic game of Tic-Tac-Toe
 
 The Minimax algorithm is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assuming that your opponent also plays optimally. 
 
